@@ -29,8 +29,8 @@
 
 * **Deep Learning:** TensorFlow / Keras (VGG16 Architecture)
 * **Computer Vision:** OpenCV (Image processing, Contours, Heatmap generation)
-* **Backend:** Python (Flask / FastAPI) *[Adjust based on your actual backend]*
-* **Frontend:** HTML/CSS/JS or React *[Adjust based on your actual frontend]*
+* **Backend:** Python (Flask / FastAPI) 
+* **Frontend:** HTML/CSS/JS or React 
 * **Deployment:** Vercel
 
 ---
